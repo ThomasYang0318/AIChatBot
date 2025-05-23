@@ -3,3 +3,5 @@ flask-socketio
 eventlet
 pyinstaller
 python-dotenv
+python-socketio 
+requests
