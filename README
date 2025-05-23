@@ -1,0 +1,8 @@
+## 使用說明
+
+1. 複製 `.env.example` 為 `.env` 並填入你的 Railway 網址
+2. 執行 `chat_client.py` 開始聊天！
+
+```bash
+cp .env.example .env
+python chat_client.py
